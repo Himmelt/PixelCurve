@@ -1,0 +1,7 @@
+apply plugin: 'java'
+
+group = 'org.soraworld'
+version = '0.0.1'
+archivesBaseName = "PixelCurve"
+
+sourceCompatibility = targetCompatibility = 1.8
